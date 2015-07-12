@@ -5,13 +5,13 @@ title-text: "# emerge life"
 title-font: "DejaVu Sans Bold 26"
 title-color: "#4D4166"
 desktop-image: "background.png"
-desktop-color: "#4D4166"
-message-font: "Dejavu Regular 20"
+
+terminal-box: "term_bkg_*.png"
+message-font: "DejaVu Sans Bold 26"
 message-color: "#333333"
 message-bg-color: "#f2f2f2"
+
 terminal-font: "DejaVu Sans Regular 20"
-terminal-box: "term_bkg_*.png"
-terminal-font: "Dejavu Sans Regular 20"
 
 ## larry picture
 + image {
@@ -23,9 +23,9 @@ terminal-font: "Dejavu Sans Regular 20"
 ## boot_menu
 + boot_menu {
 	top = 20%
-	left = 10%
-	width = 80%
-	height = 65%
+	left = 15%
+	width = 70%
+	height = 61%
 	icon_width = 50%
 	icon_height = 50%
 	item_height = 50%
@@ -43,27 +43,26 @@ terminal-font: "Dejavu Sans Regular 20"
 ## horizontal progress bar
 + progress_bar {
 		id = "__timeout__"
-		left = 50%-389
-		width = 778
-		top = 84%+7
-		height = 31
-		show_text = false
-		font = "DejaVuSans 20"
-		text_color = "255, 255, 255"
-		text = ""
+		left = 18%
+		width = 64%
+		top = 85%
+		height = 70
+		show_text = true
+		text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
+		font = "DejaVu Sans Regular 20"
+		text_color = "#AAAAAA"
 		bar_style = "progress_bar_*.png"
 		highlight_style = "progress_highlight_*.png"
 }
 
 ## help bar at the bottom
 + label {
-	top = 90%
+	top = 92%
 	left = 0%
 	width = 100%
 	height = 64
 	text = "@KEYMAP_SHORT@"
-	align = "center"
 	font = "DejaVu Sans Regular 20"
 	color = "#AAAAAA"
+	align = "center"
 }
-
