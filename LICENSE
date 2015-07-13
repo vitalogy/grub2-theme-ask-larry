@@ -121,8 +121,10 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 . fr.
 
 ***Icon License
-The icons reboot.png, rescue.png and shutdown.png come from https://openclipart.org and 
-use CC0 1.0 Universal (CC0 1.0).
+The icons os.png, reboot.png, rescue.png, shutdown.png and submenu.png 
+come from https://openclipart.org and use CC0 1.0 Universal (CC0 1.0).
+The icon memtest86.png come from https://www.iconfinder.com/ and is 
+licensed as "Free for personal use only".
 All other trademarks and logos belong to their respective owners.
 
 $Id: LICENSE 2133 2007-11-28 02:46:28Z lechimp $
