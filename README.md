@@ -2,6 +2,8 @@
 # grub2-theme-gentoo
 a grub2-theme for gentoo
 
+based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
+
 
 ## Screenshot 1600x900
 
@@ -15,12 +17,18 @@ a grub2-theme for gentoo
    src="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_terminal_1600x900.png?raw=true">
 </a>
 
+## Screenshot 1280x1024
 
-#### based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
+<a href="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1280x1024.png">
+   <img height=300 
+   src="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1280x1024.png?raw=true">
+</a>
 
-## Reboot/Shutdown
 
-edit /etc/grub.d/40_custom and update grub (grub2-mkconfig -o ....)
+
+## Reboot/Shutdown entry
+
+edit /etc/grub.d/40_custom
 ```
 #!/bin/sh
 exec tail -n +3 $0
@@ -36,3 +44,4 @@ menuentry "Shutdown" --class shutdown {
    halt
 }
 ```
+after that update grub (grub2-mkconfig -o ....)
