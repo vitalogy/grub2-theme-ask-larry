@@ -23,8 +23,8 @@ terminal-font: "DejaVu Sans Regular 20"
 ## boot_menu
 + boot_menu {
 	top = 20%
-	left = 15%
-	width = 70%
+	left = 18%
+	width = 64%
 	height = 61%
 	icon_width = 50%
 	icon_height = 50%
@@ -45,7 +45,7 @@ terminal-font: "DejaVu Sans Regular 20"
 		id = "__timeout__"
 		left = 18%
 		width = 64%
-		top = 85%
+		top = 84%
 		height = 70
 		show_text = true
 		text = "@TIMEOUT_NOTIFICATION_MIDDLE@"
