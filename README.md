@@ -1,5 +1,5 @@
 
-# grub2-theme-gentoo
+# grub2-theme-ask-larry
 a grub2-theme for gentoo
 
 based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
@@ -7,21 +7,21 @@ based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
 
 ## Screenshot 1600x900
 
-<a href="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1600x900.png">
+<a href="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1600x900.png">
    <img height=300 
-   src="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1600x900.png?raw=true">
+   src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1600x900.png?raw=true">
 </a>
 
-<a href="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_terminal_1600x900.png">
+<a href="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_terminal_1600x900.png">
    <img height=300 
-   src="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_terminal_1600x900.png?raw=true">
+   src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_terminal_1600x900.png?raw=true">
 </a>
 
 ## Screenshot 1280x1024
 
-<a href="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1280x1024.png">
+<a href="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1280x1024.png">
    <img height=300 
-   src="https://github.com/vitalogy/grub2-theme-gentoo/blob/master/screenshot/screenshot_1280x1024.png?raw=true">
+   src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1280x1024.png?raw=true">
 </a>
 
 
