@@ -1,10 +1,10 @@
-## grub2-theme ask-larry (widescreen)
+## grub2-theme ask-larry (normal screen)
 ## based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
 
 title-text: "# emerge life"
 title-font: "DejaVu Sans Bold 26"
 title-color: "#4D4166"
-desktop-image: "background_widescreen.png"
+desktop-image: "background.png"
 
 terminal-box: "term_bkg_*.png"
 message-font: "DejaVu Sans Bold 26"
@@ -12,13 +12,6 @@ message-color: "#333333"
 message-bg-color: "#f2f2f2"
 
 terminal-font: "DejaVu Sans Regular 20"
-
-## larry picture
-#+ image {
-#	top = 100%-200
-#	left = 100%-210
-#	file = "larry.png"
-#}
 
 ## boot_menu
 + boot_menu {
