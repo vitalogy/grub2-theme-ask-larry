@@ -13,13 +13,6 @@ message-bg-color: "#f2f2f2"
 
 terminal-font: "DejaVu Sans Regular 20"
 
-## larry picture
-#+ image {
-#	top = 100%-200
-#	left = 100%-210
-#	file = "larry.png"
-#}
-
 ## boot_menu
 + boot_menu {
 	top = 20%
