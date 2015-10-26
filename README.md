@@ -12,6 +12,11 @@ based on https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
    src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1600x900.png?raw=true">
 </a>
 
+<a href="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1600x900_submenu.png">
+   <img height=300 
+   src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_1600x900_submenu.png?raw=true">
+</a>
+
 <a href="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_terminal_1600x900.png">
    <img height=300 
    src="https://github.com/vitalogy/grub2-theme-ask-larry/blob/master/screenshot/screenshot_terminal_1600x900.png?raw=true">
